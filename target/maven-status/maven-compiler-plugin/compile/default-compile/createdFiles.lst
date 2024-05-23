@@ -1,0 +1,6 @@
+com\example\gerenciador_pessoas\controller\PessoaController.class
+com\example\gerenciador_pessoas\GerenciadorPessoasApplication.class
+com\example\gerenciador_pessoas\repository\PessoaRepository.class
+com\example\gerenciador_pessoas\model\Pessoa.class
+com\example\gerenciador_pessoas\service\PessoaService.class
+com\example\gerenciador_pessoas\config\SecurityConfig.class
